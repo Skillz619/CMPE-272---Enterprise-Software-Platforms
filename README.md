@@ -1,4 +1,4 @@
-# CMPE-272---Enterprise-Software-Platforms
+# CMPE-272---Enterprise-Software-Platforms by Richard Sinn
 
 
 Class Notes:
